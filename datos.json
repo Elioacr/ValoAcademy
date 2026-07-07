@@ -13,8 +13,8 @@
         "0-50m": "Cabeza: 160 | Cuerpo: 40 | Piernas: 34"
       },
       "consejos": {
-        "corta": "Puedes hacer un spray (mantener presionado el botob de disparo) apuntando al pecho y bajando la mira levemente para controlar el retroceso hacia arriba.",
-        "media": "Rafagas cortas de 2 a 3 balas. Debes hacer strafe shooting para no ser un blanco facil para el enemigo",
+        "corta": "Puedes hacer un spray (mantener presionado el boton de disparo) apuntando al pecho y bajando la mira levemente para controlar el retroceso hacia arriba.",
+        "media": "Rafagas cortas de 2 a 3 balas. Debes hacer 'strafe shooting' para no ser un blanco facil para el enemigo",
         "larga": "Usar disparos individuales (taps) es la mejor opcion, debes tomarte una fracción de segundo entre cada disparo para que el recoil se reinicie."
     }
     },
@@ -23,9 +23,9 @@
       "costo": 2900,
       "dano": {
         "0-20m": "Cabeza: 156 | Cuerpo: 39 | Piernas: 33",
-        "a mas de 30m": "Cabeza: 140 | Cuerpo: 35 | Piernas: 29"
+        "a mas de 20m": "Cabeza: 140 | Cuerpo: 35 | Piernas: 29"
       },
-      "consejo": "Rifle con silenciador. No deja trazadoras a través del humo y su retroceso es más fácil de controlar (Spray Transfer), pero a más de 15 metros no mata de un tiro a la cabeza a un enemigo con escudo completo."
+      "consejo": "Rifle con silenciador. No deja trazadoras a través del humo y su retroceso es más fácil de controlar (Spray Transfer), pero a más de 20 metros no mata de un tiro a la cabeza a un enemigo con escudo completo."
     },
     "sheriff": {
       "tipo": "Arma de lado (Pistola)",
@@ -34,7 +34,7 @@
         "0-30m": "Cabeza: 159 | Cuerpo: 55 | Piernas: 46",
         "a mas de 30m": "Cabeza: 145 | Cuerpo: 50 | Piernas: 42"
       },
-      "consejo": "El revólver económico por excelencia. Letal a corta y media distancia, pero ten cuidado: a partir de los 30 metros, un tiro a la cabeza dejará al enemigo a 5 HP si tiene escudos pesados."
+      "consejo": "El revólver económico por excelencia si hay que hacer una ronda economica. Letal a corta y media distancia. Pero ten cuidado, a partir de los 30 metros, un tiro a la cabeza dejará al enemigo a 5 HP si tiene escudos pesados."
     }
   }
 }
