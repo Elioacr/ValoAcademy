@@ -12,7 +12,7 @@
       "dano": {
         "0-50m": "Cabeza: 160 | Cuerpo: 40 | Piernas: 34"
       },
-      "consejos_distancia": {
+      "consejos": {
         "corta": "Puedes hacer un spray (mantener presionado el botob de disparo) apuntando al pecho y bajando la mira levemente para controlar el retroceso hacia arriba.",
         "media": "Rafagas cortas de 2 a 3 balas. Debes hacer strafe shooting para no ser un blanco facil para el enemigo",
         "larga": "Usar disparos individuales (taps) es la mejor opcion, debes tomarte una fracción de segundo entre cada disparo para que el recoil se reinicie."
